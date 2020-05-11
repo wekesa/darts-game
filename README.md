@@ -10,4 +10,4 @@ In our particular instance of the game, the target rewards with 4 different amou
 # To run the Program
 
 * On a terminal run `python darts.py`
-* To run tests run ``python darts_test.py
+* To run tests run `python darts_test.py`

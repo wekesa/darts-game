@@ -15,8 +15,11 @@ def score(x, y):
     return 10
 
 if __name__ == '__main__':
-    print("Welcome to darts game")
-    x = input("Enter X value")
-    y = input("Enter Y value")
+    print("Welcome to darts game ")
+    print('\n')
+    x = input("Enter x value ")
+    print('\n')
+    y = input("Enter y value ")
+    print('\n')
     score = score(x, y)
     print("You scored: %d" % score)
